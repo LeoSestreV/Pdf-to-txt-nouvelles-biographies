@@ -12,6 +12,8 @@ Handles:
 import re
 import unicodedata
 
+from engine import NAME_PARTICLES
+
 
 def fix_hyphenation(text: str) -> str:
     """
@@ -167,8 +169,7 @@ def format_filename(surname: str, first_name: str) -> str:
     # Clean the surname: title case
     # "VAN DER MEERSCH" -> "Van der Meersch"
     # But keep particles lowercase: de, du, van, von, der, den, la, le, les
-    particles = {'de', 'du', 'van', 'von', 'der', 'den', 'la', 'le', 'les',
-                 'het', 'ten', 'ter', 'dit', 'des', 'ou'}
+    particles = NAME_PARTICLES | {'ou'}
     roman_numerals = {'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'}
 
     words = surname.split()

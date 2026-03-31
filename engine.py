@@ -93,23 +93,24 @@ def detect_first_bio_page(doc: fitz.Document) -> int:
     return 0
 
 
+_BACK_MATTER_MARKERS = [
+    "LISTE DES AUTEURS",
+    "TABLE DES ILLUSTRATIONS",
+    "TABLE DES MATIÈRES",
+    "TABLE ALPHABÉTIQUE",
+]
+_REF_PATTERN = re.compile(r'[IVX]+\s*,\s*\d+')
+
+
 def detect_last_bio_page(doc: fitz.Document) -> int:
     """Find the last biography page by scanning forward for back-matter markers."""
-    # Scan forward from 2/3 of the document to find FIRST back-matter page
     start = max(0, (len(doc) * 2) // 3)
     for page_num in range(start, len(doc)):
         page = doc[page_num]
         text = page.get_text().strip()
-        if any(marker in text for marker in [
-            "LISTE DES AUTEURS",
-            "TABLE DES ILLUSTRATIONS",
-            "TABLE DES MATIÈRES",
-            "TABLE ALPHABÉTIQUE",
-        ]):
+        if any(marker in text for marker in _BACK_MATTER_MARKERS):
             return page_num - 1
-        lines = text.split('\n')
-        ref_pattern = re.compile(r'[IVX]+\s*,\s*\d+')
-        ref_count = sum(1 for line in lines if ref_pattern.search(line))
+        ref_count = sum(1 for line in text.split('\n') if _REF_PATTERN.search(line))
         if ref_count > 5:
             return page_num - 1
     return len(doc) - 1
@@ -417,9 +418,11 @@ def scan_volume_precise(file_path: str) -> tuple[VolumeInfo, list[BiographyEntry
         else:
             entries[i].pdf_page_end = last_bio_page + 1
 
-    # Pass 3: Extract text
-    for entry in entries:
-        entry.raw_text = _extract_entry_text_precise(doc, entry, entries)
+    # Pass 3: Extract text (with page text cache to avoid reprocessing shared pages)
+    page_text_cache: dict[int, str] = {}
+    for i, entry in enumerate(entries):
+        next_entry = entries[i + 1] if i + 1 < len(entries) else None
+        entry.raw_text = _extract_entry_text_precise(doc, entry, next_entry, page_text_cache)
 
     doc.close()
     return vol_info, entries
@@ -519,17 +522,9 @@ def _get_page_content_text(page: fitz.Page) -> str:
     for block in blocks:
         if "lines" not in block:
             continue
-        if is_running_header(block, page_height):
-            for line in block["lines"]:
-                text = "".join(s["text"] for s in line["spans"]).strip()
-                if text:
-                    skip_texts.add(text)
-        if is_page_number(block, page_height):
-            for line in block["lines"]:
-                text = "".join(s["text"] for s in line["spans"]).strip()
-                if text:
-                    skip_texts.add(text)
-        if is_section_letter_block(block):
+        if is_running_header(block, page_height) or \
+           is_page_number(block, page_height) or \
+           is_section_letter_block(block):
             for line in block["lines"]:
                 text = "".join(s["text"] for s in line["spans"]).strip()
                 if text:
@@ -570,23 +565,22 @@ def _find_header_in_text(text: str, surname: str) -> int:
 def _extract_entry_text_precise(
     doc: fitz.Document,
     entry: BiographyEntry,
-    all_entries: list[BiographyEntry],
+    next_entry: BiographyEntry | None,
+    page_text_cache: dict[int, str],
 ) -> str:
     """
     Extract text for a biography entry using page.get_text() for correct
     reading order, with header-based boundary detection.
     """
-    entry_idx = all_entries.index(entry)
-    next_entry = all_entries[entry_idx + 1] if entry_idx + 1 < len(all_entries) else None
-
     text_parts = []
 
     for page_num in range(entry.pdf_page_start, entry.pdf_page_end):
         if page_num >= len(doc):
             break
 
-        page = doc[page_num]
-        page_text = _get_page_content_text(page)
+        if page_num not in page_text_cache:
+            page_text_cache[page_num] = _get_page_content_text(doc[page_num])
+        page_text = page_text_cache[page_num]
 
         if page_num == entry.pdf_page_start:
             # Find where this entry's header starts in the page text

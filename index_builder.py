@@ -9,6 +9,7 @@ import json
 import os
 import re
 import unicodedata
+from collections import defaultdict
 from typing import Optional
 
 from engine import BiographyEntry, VolumeInfo
@@ -120,12 +121,9 @@ def validate_extraction(
     - page_mismatches: entries where the page number differs
     """
     # Normalize index entries for comparison
-    index_lookup = {}
+    index_lookup = defaultdict(list)
     for idx_entry in index_entries:
-        key = normalize_name(idx_entry["nom"])
-        if key not in index_lookup:
-            index_lookup[key] = []
-        index_lookup[key].append(idx_entry)
+        index_lookup[normalize_name(idx_entry["nom"])].append(idx_entry)
 
     matched = []
     extra = []
