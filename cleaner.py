@@ -132,6 +132,42 @@ def detect_author_signature(text: str) -> tuple[str, str]:
     return text, ""
 
 
+def join_paragraph_lines(text: str) -> str:
+    """
+    Join lines within the same paragraph into continuous text.
+
+    Single newlines (mid-paragraph line breaks from PDF layout) are replaced
+    by a space. Double newlines (paragraph breaks) are preserved.
+    """
+    # Normalize line endings
+    text = text.replace('\r\n', '\n').replace('\r', '\n')
+
+    # Split into paragraphs (separated by blank lines)
+    paragraphs = re.split(r'\n\s*\n', text)
+
+    joined = []
+    for para in paragraphs:
+        # Within a paragraph, replace single newlines with spaces
+        # but preserve leading tabs (paragraph indentation markers like \t)
+        lines = para.split('\n')
+        merged_parts = []
+        for line in lines:
+            stripped = line.strip()
+            if not stripped:
+                continue
+            # If line starts with \t it's a new sub-paragraph within the entry
+            if line.startswith('\t') and merged_parts:
+                # Flush current paragraph, start new one
+                joined.append(' '.join(merged_parts))
+                merged_parts = [stripped]
+            else:
+                merged_parts.append(stripped)
+        if merged_parts:
+            joined.append(' '.join(merged_parts))
+
+    return '\n\n'.join(joined)
+
+
 def clean_biography_text(raw_text: str) -> str:
     """
     Full cleaning pipeline for a biography's raw text.
@@ -140,7 +176,8 @@ def clean_biography_text(raw_text: str) -> str:
     1. Fix soft hyphens
     2. Fix end-of-line hyphenation
     3. Remove page numbers
-    4. Normalize whitespace
+    4. Join paragraph lines into continuous text
+    5. Normalize whitespace
     """
     text = raw_text
 
@@ -152,6 +189,9 @@ def clean_biography_text(raw_text: str) -> str:
 
     # Remove standalone page numbers
     text = remove_page_numbers(text)
+
+    # Join lines within paragraphs into continuous text
+    text = join_paragraph_lines(text)
 
     # Normalize whitespace
     text = normalize_whitespace(text)
