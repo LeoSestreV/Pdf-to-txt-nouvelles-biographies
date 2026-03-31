@@ -57,17 +57,21 @@ def detect_page_offset(doc: fitz.Document, first_bio_page: int) -> int:
         page = doc[page_num]
         text = page.get_text().strip()
         lines = text.split('\n')
-        # Check last line for a page number
-        last_line = lines[-1].strip() if lines else ""
-        if last_line.isdigit():
-            printed = int(last_line)
-            if 5 <= printed <= page_num + 20:
-                return page_num - printed
+        # Check first and last lines for a page number
+        for candidate in [lines[-1].strip() if lines else "",
+                          lines[0].strip() if lines else ""]:
+            if candidate.isdigit():
+                printed = int(candidate)
+                if 1 <= printed <= page_num + 50:
+                    return page_num - printed
     return 0
 
 
 def detect_first_bio_page(doc: fitz.Document) -> int:
-    for page_num in range(3, min(30, len(doc))):
+    # For short volumes (like Vol 10, only 2 pages), start from page 0.
+    # For longer volumes, skip front matter by starting at page 3.
+    start = 0 if len(doc) <= 15 else 3
+    for page_num in range(start, min(30, len(doc))):
         page = doc[page_num]
         blocks = page.get_text("dict")["blocks"]
         for block in blocks:
@@ -77,13 +81,22 @@ def detect_first_bio_page(doc: fitz.Document) -> int:
                 text = span["text"].strip()
                 if span["size"] > 40 and len(text) <= 2 and any(c.isalpha() for c in text):
                     return page_num
-    return 10
+    # Fallback: find the first page with a detectable biography header
+    for page_num in range(len(doc)):
+        page = doc[page_num]
+        page_height = page.rect.height
+        blocks = page.get_text("dict")["blocks"]
+        for block in blocks:
+            is_header, _, _ = is_biography_header(block, page_height)
+            if is_header:
+                return page_num
+    return 0
 
 
 def detect_last_bio_page(doc: fitz.Document) -> int:
     """Find the last biography page by scanning forward for back-matter markers."""
     # Scan forward from 2/3 of the document to find FIRST back-matter page
-    start = (len(doc) * 2) // 3
+    start = max(0, (len(doc) * 2) // 3)
     for page_num in range(start, len(doc)):
         page = doc[page_num]
         text = page.get_text().strip()

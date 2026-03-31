@@ -3,20 +3,14 @@
 app.py — Main orchestration script for NBN biography extraction.
 
 Usage:
-    # Process a single volume:
+    # Tout faire (extraction + index + validation) :
+    python app.py
+
+    # Traiter un seul volume :
     python app.py NewBioPdf/NouvelleBiographieNationale_Volume1.pdf
 
-    # Process a single volume with JSON index validation:
-    python app.py NewBioPdf/NouvelleBiographieNationale_Volume1.pdf --index index_nouvelles_biographies.json
-
-    # Process all PDFs in a directory:
-    python app.py NewBioPdf/
-
-    # Generate the JSON index from PDFs (no text export):
-    python app.py NewBioPdf/ --build-index
-
-    # Specify output directory:
-    python app.py NewBioPdf/NouvelleBiographieNationale_Volume1.pdf -o output/
+    # Spécifier le répertoire de PDFs et la sortie :
+    python app.py -i NewBioPdf/ -o output/
 """
 
 import argparse
@@ -170,15 +164,15 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Exemples:
-  python app.py NewBioPdf/NouvelleBiographieNationale_Volume1.pdf
-  python app.py NewBioPdf/ --index index_nouvelles_biographies.json
-  python app.py NewBioPdf/ --build-index
-  python app.py NewBioPdf/ -o output/
+  python app.py                  # Tout faire automatiquement
+  python app.py -i NewBioPdf/NouvelleBiographieNationale_Volume1.pdf
+  python app.py -i NewBioPdf/ -o sortie/
         """,
     )
     parser.add_argument(
-        "input",
-        help="Fichier PDF ou répertoire contenant les PDFs NBN",
+        "-i", "--input",
+        default="NewBioPdf",
+        help="Fichier PDF ou répertoire contenant les PDFs NBN (défaut: NewBioPdf/)",
     )
     parser.add_argument(
         "-o", "--output",
@@ -187,12 +181,8 @@ Exemples:
     )
     parser.add_argument(
         "--index",
-        help="Chemin vers le fichier JSON de référence (index_nouvelles_biographies.json)",
-    )
-    parser.add_argument(
-        "--build-index",
-        action="store_true",
-        help="Générer le fichier index JSON à partir des PDFs (sans export texte)",
+        default="index_nouvelles_biographies.json",
+        help="Chemin du fichier JSON de référence (défaut: index_nouvelles_biographies.json)",
     )
     parser.add_argument(
         "-q", "--quiet",
@@ -217,51 +207,59 @@ Exemples:
         for f in pdf_files:
             print(f"  • {os.path.basename(f)}")
 
-    # Load index if provided
-    index_entries = None
-    if args.index and os.path.exists(args.index):
-        index_entries = load_index(args.index)
-        if verbose:
-            print(f"\nIndex JSON chargé : {len(index_entries)} entrées depuis {args.index}")
+    # ── Étape 1 : Générer l'index JSON ──────────────────────────
+    if verbose:
+        print(f"\n{'─'*60}")
+        print(f"  ÉTAPE 1/3 — Génération de l'index JSON")
+        print(f"{'─'*60}")
 
-    # Process each volume
+    index_results = []
+    for pdf_path in pdf_files:
+        vol_info, entries = scan_volume_precise(pdf_path)
+        index_results.append((vol_info, entries))
+        if verbose:
+            print(f"  Volume {vol_info.volume_number}: {len(entries)} notices détectées")
+
+    index = build_index_from_volumes(index_results)
+    save_index(index, args.index)
+    if verbose:
+        print(f"\n  → Index JSON généré : {len(index)} entrées → {args.index}")
+
+    # ── Étape 2 : Extraction des fichiers .txt ──────────────────
+    if verbose:
+        print(f"\n{'─'*60}")
+        print(f"  ÉTAPE 2/3 — Extraction des notices en fichiers .txt")
+        print(f"{'─'*60}")
+
+    index_entries = load_index(args.index)
+
     all_results = []
     all_reports = []
 
     for pdf_path in pdf_files:
-        if args.build_index:
-            # Just extract, don't export text files
-            from engine import scan_volume_precise
-            vol_info, entries = scan_volume_precise(pdf_path)
-            all_results.append((vol_info, entries))
-            if verbose:
-                print(f"\n  Volume {vol_info.volume_number}: {len(entries)} notices détectées")
-        else:
-            vol_info, entries, report = process_volume(
-                pdf_path, args.output, index_entries, verbose
-            )
-            all_results.append((vol_info, entries))
-            if report:
-                all_reports.append(report)
+        vol_info, entries, report = process_volume(
+            pdf_path, args.output, index_entries, verbose
+        )
+        all_results.append((vol_info, entries))
+        if report:
+            all_reports.append(report)
 
-    # Build and save index if requested
-    if args.build_index:
-        index = build_index_from_volumes(all_results)
-        index_path = args.index or "index_nouvelles_biographies.json"
-        save_index(index, index_path)
-        if verbose:
-            print(f"\nIndex JSON généré : {len(index)} entrées → {index_path}")
+    # ── Étape 3 : Rapport de validation ─────────────────────────
+    if verbose:
+        print(f"\n{'─'*60}")
+        print(f"  ÉTAPE 3/3 — Validation")
+        print(f"{'─'*60}")
 
-    # Print validation reports
     for report in all_reports:
         print_validation_report(report)
 
-    # Final summary
-    if verbose and not args.build_index:
+    # Résumé final
+    if verbose:
         total_entries = sum(len(entries) for _, entries in all_results)
-        print(f"\n{'═'*60}")
+        print(f"{'═'*60}")
         print(f"TOTAL : {total_entries} notices extraites de {len(pdf_files)} volume(s)")
-        print(f"Fichiers exportés dans : {os.path.abspath(args.output)}/")
+        print(f"Index JSON        : {os.path.abspath(args.index)}")
+        print(f"Fichiers exportés : {os.path.abspath(args.output)}/")
         print(f"{'═'*60}")
 
 

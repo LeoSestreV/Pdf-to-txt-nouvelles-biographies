@@ -1,0 +1,269 @@
+GARNIR, Henri, Georges, Marcel, mathématicien, professeur à l'Université de Liège, né à
+Jemeppe-sur-Meuse (Liège) le 13 septembre
+1921, décédé à Liège le 18 novembre 1985.
+Sa mère, Marie, est née Lempereur, et son père
+Georges, chef de bureau à la téléphonie chez
+Cockerill, est cousin du romancier, dramaturge et
+journaliste George Garnir (1868-1939), l'un des
+« trois mousquetaires » du Pourquoi pas ?
+Le jeune homme termine ses humanités
+modernes scientifiques à l'Athénée royal de
+Seraing en 1939, premier de sa classe et prix
+spécial de mathématiques. Il publie dès sa
+première année à l'Université de Liège, dans le
+Bulletin Scientifique de l'Association des Elèves
+des Ecoles Spéciales, une note sur les coniques
+bitangentes à une conique fixe. Dans les conditions difficiles de l'occupation, il obtient, avec la
+plus grande distinction, la licence en sciences
+physiques en 1943, avec un mémoire écrit sous
+la direction de Henri Janne. Un an plus tard il
+décroche la licence en sciences mathématiques,
+avec le même grade et un mémoire rédigé sous
+la direction de Florent Bureau. En 1946, Henri
+Garnir est proclamé docteur en sciences (groupe
+mathématiques), avec la plus grande distinction
+et les félicitations du jury. Sa thèse, dont le
+promoteur est encore Florent Bureau, porte sur
+l'étude de systèmes de matrices hermitiennes
+apparaissant dans la théorie du méson. Elle met
+bien en valeur sa double formation de physicien
+et mathématicien, qui influencera toute son
+œuvre. C'est à l'unanimité que la Faculté des
+Sciences lui confère, en 1951, le titre d'agrégé
+de l'enseignement supérieur, grâce à une dissertation sur la représentation des groupes
+symétriques.
+Lauréat du Concours universitaire et du
+Concours des bourses de voyages, le jeune
+savant liégeois complète sa formation scientifique par des séjours dans des centres
+prestigieux: Paris (1949, auprès du sismologue
+Cagniard), Nancy (1950 et 1952, auprès de Jean
+Delsarte, Jean Dieudonné et Laurent Schwartz),
+Oxford (1952, auprès d'Edward C. Titchmarsh),
+et Paris (1953, auprès de Laurent Schwartz).
+La carrière académique de Henri Garnir s'est
+tout entière déroulée à l'Université de Liège.
+Aspirant au Fonds national de la Recherche
+scientifique (FNRS) en 1944, assistant en
+mécanique rationnelle dans le service de Florent
+Bureau dès 1945, il est promu chef de travaux en
+1950, agrégé de faculté en 1955 et chargé de
+cours en 1958. Il assure le cours de mécanique
+rationnelle du premier cycle ingénieurs, sciences
+mathématiques et sciences physiques. En 1960,
+lors de l'éméritat de Lucien Godeaux, il est
+nommé professeur ordinaire et titulaire de la
+chaire d'analyse mathématique et d'algèbre. Il
+enseigne le calcul différentiel et intégral et
+l'algèbre aux mêmes étudiants, et les compléments de mécanique analytique dans la
+deuxième licence en mathématiques. Après une
+première version polycopiée, Henri Garnir
+publie ses cours d'analyse de premier cycle dans
+deux tomes sur les Fonctions de variables
+réelles, suivis d'un volume sur les Fonctions
+d'une variable complexe, rédigé en collaboration avec Jules Gobert. Outre le soin apporté à
+leur rédaction et l'excellent choix des matières
+et de l'approche, ces traités se distinguent par
+une collection exceptionnellement riche d'exercices inédits, dont beaucoup proviennent de
+problèmes rencontrés par l'auteur pendant ses
+recherches. Beaucoup de jeunes mathématiciens
+belges et étrangers se sont initiés à l'analyse
+dans ces livres, et le premier volume des
+Fonctions de variables réelles a été traduit en
+espagnol. Lors de l'éméritat de Florent Bureau
+en 1976, Henri Garnir abandonne l'essentiel de
+son enseignement de candidatures, pour prendre
+en charge l'analyse supérieure au deuxième
+cycle de la licence en mathématiques. Il y
+dispense un enseignement toujours en évolution,
+
+intimement lié à ses recherches, source de
+nombreux textes ronéotypés.
+Ses qualités pédagogiques sont extraordinaires. Il sait illustrer les théories les plus
+abstraites par des images lumineuses ou des
+métaphores saisissantes. Il entrecoupe les
+démonstrations arides de commentaires humoristiques et d'anecdotes amusantes. Cette
+apparente décontraction est pourtant le résultat
+d'une préparation méticuleuse. Les notes multicolores et savamment recollées sont l'irréfutable
+témoignage d'un effort sans cesse renouvelé. Le
+souvenir du merveilleux professeur se perpétue,
+puisque le Prix Henri Garnir récompense chaque
+année, à l'Université de Liège, le plus brillant
+étudiant ou la plus brillante étudiante de la
+licence en mathématiques.
+Les recherches de Henri Garnir portent sur
+des questions d'algèbre, d'analyse et leur application à la physique mathématique. Elles sont
+rassemblées dans une cinquantaine d'articles,
+publiés dans les meilleures revues nationales et
+internationales, trois mémoires, deux livres,
+auxquels s'ajoutent une trentaine de séminaires
+ronéotypés.
+Entre 1945 et 1951, le jeune savant liégeois
+s'intéresse à la détermination des systèmes de
+matrices vérifiant des conditions suggérées par
+la théorie quantique des particules élémentaires,
+et en particulier les relations de Dirac pour
+l'électron et de Kemmer pour le méson. Il
+s'occupe ensuite de la représentation linéaire de
+certains groupes finis. Sa méthode de réduction
+est encore utilisée par les physiciens et les
+chimistes, et l'on parle dans des ouvrages
+récents du concept d'«élément de Garnir».
+A partir de 1951, Henri Garnir se penche sur les
+équations et les systèmes d'équations aux
+dérivées partielles de la physique mathématique.
+Sous l'influence de Laurent Schwartz, il comprend très vite ce que la toute jeune théorie des
+distributions peut apporter à cette discipline
+classique. Il construit dans ce cadre les solutions
+élémentaires de l'équation des ondes et de la
+chaleur, et les applique à l'étude de l'évolution
+d'une onde progressive dans des domaines de
+différentes formes, et à la résolution de nombreux
+problèmes aux limites. Son souci est de ne pas
+imposer a priori des restrictions de régularité
+inadmissibles pour la solution cherchée. Ces
+recherches sur les équations aux dérivées
+partielles le conduisent à définir, indépendam-
+ment de Schwartz, en 1952, la transformée de
+Laplace dans le cadre de la théorie des distributions. Comme ce sera souvent le cas, Henri Garnir
+couronne ce cycle de recherches par la rédaction
+d'une monographie intitulée Les problèmes aux
+limites de la physique mathématique, publiée
+chez Birkhäuser en 1958, et tout de suite extrêmement populaire, au Japon en particulier.
+La théorie des distributions repose sur l'étude
+de certains espaces de fonctions, et, dès le
+milieu des années soixante, Henri Garnir s'intéresse à l'analyse fonctionnelle et en particulier à
+la théorie des espaces vectoriels topologiques
+localement convexes. Rompant avec la tradition
+bourbachique triomphante à l'époque, et pour
+rendre la théorie plus rapidement accessible aux
+utilisateurs, il définit ces espaces abstraits à
+partir d'une famille de semi-normes. Le point de
+vue adopté est plus constructif, et les démonstrations n'utilisent que l'axiome du choix
+dénombrable, ce qui nécessite une complète
+reconstruction de nombreuses démonstrations.
+Avec ses élèves Marc De Wilde et Jean Schmets,
+Henri Garnir rédige un monumental traité
+intitulé Analyse fonctionnelle. Théorie constructive des espaces linéaires à semi-normes, publié
+entre 1968 et 1973 chez Birkhäuser. L'ouvrage
+comprend trois tomes, respectivement consacrés
+à la théorie générale, à la mesure et l'intégrale,
+et aux espaces fonctionnels usuels. Henri Garnir
+se penche ensuite sur quelques aspects de la
+théorie spectrale des opérateurs normaux dans
+un espace de Hilbert, qui devaient constituer un
+quatrième tome de l'Analyse fonctionnelle.
+La fin des années septante voit le mathématicien revenir aux équations aux dérivées
+partielles. En vue de décrire rigoureusement des
+phénomènes de propagation d'ondes combinant
+les effets de la réflexion, la réfraction et la
+diffraction par des obstacles, il étudie la propagation des singularités des solutions des
+problèmes aux limites associés à des équations
+et des systèmes d'équations d'évolution. Ses
+résultats, et ceux de ses collaborateurs, constituent une impressionnante application des
+méthodes nouvelles de l'analyse microlocale à
+la physique des ondes progressives. Le destin ne
+lui a pas laissé le temps de rédiger le traité qu'il
+avait, cette fois encore, en projet.
+Dans ces travaux comme dans les autres, le
+souci constant de Henri Garnir est de démystifier. Il déteste par-dessus tout le vague,
+
+l'à-peu-près et la poudre aux yeux. Il dépense
+une énergie fabuleuse à rendre intelligibles des
+travaux bâclés, incomplets ou nébuleux. Il ne
+s'agit pas d'éblouir, mais d'expliquer. La même
+démarche le guide lorsque, à la fin des années
+soixante, il part en guerre contre l'introduction
+des «mathématiques modernes» dans l'enseignement secondaire. Partisan d'une réforme
+moins radicale, il refuse le slogan démagogique
+d'une prétendue mathématique sans larmes,
+préférant «extraire les mathématiques des élèves et non les leur injecter.»
+Henri Garnir a été un infatigable animateur
+des mathématiques en Belgique et à l'étranger.
+Entouré d'une pléiade déjeunes mathématiciens
+enthousiastes, il dirige inlassablement un groupe
+talentueux, resté le fer de lance de l'Institut de
+mathématiques à l'Université de Liège. Il y crée
+en 1964, sous les auspices du Fonds de la
+Recherche fondamentale et collective (FRFC) et
+du FNRS, un Centre d'analyse fonctionnelle
+justement fameux, qui permet de nombreux et
+fructueux contacts entre chercheurs belges et
+étrangers, et contribue grandement au renom des
+mathématiques belges dans le monde entier.
+Henri Garnir a organisé, en Belgique et
+ailleurs, une douzaine de congrès internationaux, et en particulier deux colloques du Centre
+belge de Recherches mathématiques (CBRM)
+sur l'analyse fonctionnelle (Liège, 1964, 1970),
+une Conférence internationale sur l'Analyse
+fonctionnelle et ses Applications (Madras,
+1973), et trois Instituts d'études avancées de
+l'OTAN sur les équations aux dérivées partielles
+et l'analyse microlocale (Liège, 1976; Maratea,
+1980; Lucca, 1985). Après avoir été, pour les
+participants, un hôte attentionné et chaleureux, il
+assure avec soin l'édition des comptes rendus de
+toutes ces réunions.
+Henri Garnir a reçu de nombreux honneurs
+nationaux et internationaux: membre dès 1950
+de la Société royale de Sciences de Liège, qu'il
+préside en 1978, président de la Société
+Mathématique de Belgique en 1962, membre du
+Comité national de Mathématiques dès 1983. D
+est lauréat du Prix des Amis de l'Université de
+Liège (1950), du Prix Agathon de Potter
+(période 1946-1948) et du Concours Annuel
+(1950) de l'Académie royale de Belgique, qui
+l'élit correspondant en 1976. L'Institut Grand
+Ducal des Sciences le nomme membre
+honoraire en 1983.
+La réputation du mathématicien liégeois
+dépasse largement les frontières de sa principauté et de son pays. Il est titulaire de la chaire
+Francqui à l'Université de Gand en 1975, et du
+cours de questions spéciales de mathématiques à
+l'Université de Louvain en 1983. Invité à faire
+des conférences et des cours avancés dans tous
+les continents, il visite les institutions les plus
+prestigieuses.
+Une aide discrète mais efficace lui est
+constamment assurée, dans les aspects pratiques
+de toutes ses activités, par son épouse Noëlly,
+née Pierre. Lorsque l'éducation de leurs deux
+enfants, leur fille Dominique, aujourd'hui
+médecin, et leur fils Henri-Pierre, physicien à
+l'Université de Liège, lui en laisse le temps, elle
+accompagne son époux dans ses nombreux
+voyages. Trois petits-fils n'ont pas manqué de
+mettre à l'épreuve les aptitudes pédagogiques et
+les dons de conteur de leur grand-père.
+A l'aube de ce qui devait être sa dernière
+année académique, alors qu'il était encore au
+sommet de son activité scientifique et débordait
+de projets, une crise cardiaque brutale et inattendue l'emporte à l'affection des siens, à
+l'amitié et l'admiration de ses collègues.
+Le passé de la Belgique s'est montré riche en
+analystes de très grand talent. Henri Garnir
+s'est inscrit sans conteste dans cette lignée. Il y
+a ajouté une dimension humaine, une cordialité
+qui restent dans les mémoires, une autorité
+de chef d'école qui a fortement modelé le
+paysage mathématique de notre pays, et un
+exceptionnel talent pédagogique, qui donnait à
+ses auditeurs l'envie d'applaudir, lorsqu'il
+rangeait ses notes.
+Henri Garnir, 1921-1985, dans Bulletin de la Société
+royale des Sciences de Liège, vol. 54, 1985, p. 285-
+286. — M. De Wilde, In memoriam Henri Garnir,
+dans Communications de la Société Mathématique de
+Belgique, mars-avril 1986, p. 2. — P.L. Butzer and J.
+Vaillant, Obituary: Henri Georges Garnir, dans
+Bulletin of the London Mathematical Society, vol. 19,
+1987, p. 609-622. — J. Mawhin, Eloge de Henri-
+Georges Garnir, dans Bulletin de la Classe des
+Sciences, Académie royale de Belgique, 6e série, 2001
+(à paraître). — P.L. Butzer et J. Mawhin, Notice sur
+Henri Georges Garnir, dans Annuaire de l'Académie
+royale de Belgique, vol. 168, Bruxelles, 2002 (à
+paraître), portrait photographique et bibliographie
+complète des œuvres scientifiques.
+
+— Paul L. Butzer et Jean Mawhin
