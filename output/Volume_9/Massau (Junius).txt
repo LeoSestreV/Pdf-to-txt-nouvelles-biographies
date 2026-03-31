@@ -1,0 +1,259 @@
+MASSAU, Junius, ingénieur et mathématicien,
+professeur à l'Université de Gand, membre de
+l'Académie royale de Belgique, né à Gosselies
+le 9 avril 1852, décédé à Gand le 10 février
+1909.
+Fils de modestes artisans (son père était
+cordier), Junius Massau suit de 1860 à 1866 les
+cours de l'Ecole moyenne de Gosselies, sa ville
+natale. Admis, en 1866, à l'Athénée royal de
+Mons dans la classe de seconde scientifique, il
+termine brillamment ses études moyennes en
+remportant, en 1868, le prix d'honneur de
+mathématiques au concours général des athénées et des collèges. En octobre de la même
+année, il entre à l'Université de Gand, dans la
+section des ponts et chaussées de l'Ecole
+spéciale du génie civil, où il allait suivre l'année
+préparatoire et les cinq années d'études menant
+au diplôme d'ingénieur. Lors du Concours
+universitaire de 1873-1874, dont le sujet était la
+théorie du gyroscope, il développe cinq thèses
+constituant le point de départ de ses recherches
+sur l'intégration graphique, thèses qui émerveillent le jury et lui valent d'obtenir le prix.
+En 1874, à sa sortie de l'Ecole, il est admis
+dans l'administration des ponts et chaussées en
+tant que sous-ingénieur. Après avoir exercé
+deux années comme adjoint dans l'arrondissement de Gand-Audenarde, il est affecté, en
+1876, au service de l'arrondissement de Marche
+puis, en 1877, à celui du second arrondissement
+de Namur. Cependant, sa carrière d'ingénieur
+reste de courte durée : dès 1878, à la suite du
+décès soudain du professeur Charles Andries,
+Massau est rappelé à l'Ecole spéciale du génie
+
+civil de l'Université de Gand pour y être chargé,
+à l'âge précoce de vingt-six ans, du cours de
+mécanique analytique et de celui des éléments
+de machines. A partir de là, il va poursuivre une
+carrière universitaire jusqu'à sa mort. En 1884,
+promu professeur ordinaire à la Faculté des
+Sciences, il est chargé du cours de compléments
+de mécanique analytique et de mécanique
+céleste. Enfin, en 1892, il prend la responsabilité du cours de graphostatique.
+Placé en position de disponibilité pour exercer
+ses fonctions de professeur, il ne cesse pourtant
+d'appartenir au corps des ponts et chaussées,
+dans lequel il poursuit normalement sa carrière.
+Il y devient successivement ingénieur principal,
+ingénieur en chef, directeur et, en décembre
+1909, inspecteur général. De 1902 à 1905, il
+préside l'Association des ingénieurs sortis des
+écoles spéciales de Gand. Au cours des assemblées générales de cette association, il prononce
+des discours remarqués sur l'équilibre des aéronefs, les geometries non euclidiennes et l'enseignement de la géométrie descriptive. Enfin, il
+siège au Conseil communal de la ville de Gand
+de 1896 à 1907. A cette occasion, préoccupé
+d'assurer aux divers partis politiques une répartition équitable des sièges, il se livre à l'étude
+mathématique de la représentation proportionnelle et se pose en précurseur de l'introduction
+de cette réforme dans le système électoral.
+L'œuvre scientifique de Massau couvre trois
+thèmes principaux : la mécanique rationnelle, la
+nomographic et l'intégration graphique. Les
+travaux de notre ingénieur, publiés pour l'essentiel dans les Annales de l'Association
+des
+ingénieurs sortis des écoles spéciales de Gand,
+occupent plus de 1 500 pages de cette revue. Les
+pièces maîtresses en sont trois grands mémoires
+représentant à eux seuls près de 1 400 pages :
+Mémoire sur l'intégration
+graphique
+et ses
+applications, publié entre 1878 et 1887 ; Appendice au mémoire sur l'intégration graphique et
+ses applications, publié en 1889 ; Mémoire sur
+l'intégration graphique des équations aux dérivées partielles, publié entre 1900 et 1904, et qui
+restera inachevé en raison de la mort de son
+auteur.
+Les travaux de Massau en mécanique rationnelle constituent probablement la partie la
+moins connue de son œuvre. Il faut dire qu'il ne
+s'est jamais vraiment occupé de la publication
+des leçons de mécanique professées à partir de
+1879. De son vivant ont seulement circulé trois
+éditions autographiées de son Cours de mécanique de l'université de Gand, dont la troisième, publiée en trois volumes en 1891, 1893
+et 1896, est de loin la plus riche. Ce n'est
+qu'après sa mort, en 1911-1913, que ses collègues ont pu faire imprimer à Gand, dans de
+bonnes conditions, les notes de ses dernières
+Leçons de mécanique rationnelle. Dans ces
+textes, Massau a été probablement le premier à
+simplifier l'exposé des principes de la mécanique par l'emploi systématique de notations
+vectorielles. En s'inspirant entre autres des
+travaux de Grassmann et de Résal, il introduit
+dans l'enseignement des notions de «produit
+géométrique » et de « moment géométrique » de
+deux vecteurs (on parle aujourd'hui de produit
+scalaire et de produit vectoriel) afin de simplifier les formules et de se centrer sur les objets
+géométriques plutôt que sur leurs composantes.
+A côté de ces notations vectorielles, il convient
+de mentionner une autre innovation didactique :
+afin de combiner l'efficacité de la théorie
+ancienne des infiniment petits et la cohérence
+de la théorie moderne des limites, Massau met
+au point une présentation de son cru qu'il
+intitule « théorie des limites relatives ». Cette
+théorie est à rapprocher des autres tentatives de
+la fin du XIXe siècle pour asseoir le calcul infinitésimal sur des fondements plus solides.
+Massau a davantage marqué son temps par les
+résultats qu'il a obtenus dans le domaine de la
+nomographic et qui figurent dans le Livre III de
+son Mémoire sur l'intégration graphique et ses
+applications. On sait que la science des abaques
+s'est considérablement développée à partir des
+années 1840, en raison notamment des calculs
+répétitifs et fastidieux engendrés par les travaux
+de terrassement nécessaires à la construction des
+lignes de chemin de fer. Une avancée décisive
+avait été due à Léon-Louis Lalanne, ingénieur
+français des Ponts et Chaussées, qui, en graduant
+les axes de coordonnées à l'aide d'échelles non
+régulières, avait réussi à représenter par des
+abaques à droites concourantes une assez large
+classe de relations F(x, y, z) = 0. En 1884, dans
+le but de simplifier la construction des tables
+graphiques nécessaires aux ingénieurs, Massau
+étudie une généralisation utilisant trois faisceaux de droites quelconques, où l'on n'impose
+plus aux deux premiers faisceaux d'êtres parallèles aux axes de coordonnées. Plus précisément,
+
+il écrit, à l'aide d'un déterminant, la condition
+de concours de trois faisceaux de droites dans
+un système de coordonnées cartésiennes, et
+caractérise par là les relations à trois variables
+F(x, y, z) = 0 susceptibles d'être représentées par
+un abaque à droites concourantes dans sa
+version la plus générale. Massau s'est également
+penché sur la représentation graphique des relations à plus de trois variables, en proposant pour
+cela des systèmes d'abaques mobiles reliés entre
+eux. Globalement, il apporte une contribution
+importante au développement de la nomographie. Surtout, il est le premier à introduire
+l'usage des déterminants dans cette discipline.
+Les déterminants du type de celui évoqué plus
+haut sont appelés « déterminants de Massau » et
+apparaissent d'autant plus pertinents qu'on les
+retrouve à l'identique dans le problème dual des
+abaques à points alignés. Ces objets ont joué un
+rôle important dans de nombreuses recherches
+jusqu'à nos jours.
+Si intéressants que puissent paraître les résultats précédents de mécanique rationnelle et de
+nomographie, c'est incontestablement l'intégration graphique qui constitue la création la plus
+originale et la plus féconde de Junius Massau.
+Toute sa vie, il a inlassablement développé les
+thèses fondamentales qu'il a présentées à vingtdeux ans pour remporter le Concours universitaire de 1874 et que l'on pourrait résumer en ces
+termes : en exploitant une construction graphique
+fondamentale, celle de la courbe intégrale d'une
+courbe donnée, il est possible de remplacer la
+quasi-totalité des calculs de l'ingénieur par des
+opérations graphiques. C'est ainsi que Massau
+met au point des techniques élaborées de calcul
+par le trait pour construire avec précision les
+courbes intégrales des équations différentielles
+y' = f(x) et, plus généralement, y' = f(x, y). On
+lui doit notamment la « méthode des isoclines »,
+qui consiste à construire les courbes intégrales
+d'une équation différentielle par petits segments
+de tangentes à partir du tracé préalable des
+courbes de niveau f(x,y) = k. Cette technique a
+connu de multiples variantes, approfondissements et généralisations jusqu'à nos jours.
+Grâce à ce travail de fond, Massau parvient à
+réorganiser le calcul graphique en une théorie
+cohérente de nature mathématique, en concurrence directe avec la statique graphique de
+l'Allemand Cari Culmann, qui connaissait alors
+un grand succès auprès des ingénieurs du génie
+civil. Dans le Mémoire
+sur
+l'intégration
+graphique et ses applications, ainsi que dans
+son Appendice, Massau applique systématiquement l'opération fondamentale de l'intégration
+graphique à l'algèbre, à la géométrie, à la mécanique et aux sciences de l'ingénieur : construction
+des courbes usuelles et résolution des équations ; calcul des aires planes, des moments de
+divers ordres, des moments statiques et des
+moments d'inertie ; équilibre des systèmes articulés ; calcul des déblais et remblais ; stabilité
+des voûtes et des constructions en maçonnerie ;
+déformation des poutres droites et courbes ;
+tracé de l'axe hydraulique d'un cours d'eau, etc.
+Le Mémoire sur l'intégration graphique des
+équations
+aux dérivées partielles
+apparaît
+comme le couronnement de cette œuvre. Il
+apporte une contribution très importante à deux
+problèmes difficiles, celui du mouvement varié
+des eaux courantes et celui de la poussée des
+terres. Mais, surtout, il comporte une partie dans
+laquelle l'auteur précise le rôle indispensable
+des caractéristiques dans l'intégration graphique
+des équations aux dérivées partielles du type
+hyperbolique et développe enfin une méthode
+générale qui a trouvé notamment de nombreuses
+applications aux problèmes de l'aérodynamique
+supersonique. L'intégration graphique par les
+caractéristiques a conservé une grande importance pratique jusqu'à l'apparition des ordinateurs, à tel point que le mémoire de 1900-1904
+a été réédité à Mons, en 1952, à l'occasion du
+centenaire de la naissance de Massau.
+Quoique mal diffusés de son vivant et relativement peu connus en dehors des pays francophones, les travaux de Massau ont été largement
+loués pour leur haut niveau scientifique et ont
+valu à leur auteur plusieurs distinctions prestigieuses. En 1894, Massau obtient le Prix
+quinquennal des sciences physiques et mathématiques pour la période 1889-1893, d'un montant
+de 5 000 francs, « pour l'ensemble de ses travaux
+et notamment pour ses mémoires sur l'intégration
+graphique». Le 15 décembre 1902, il est élu à
+l'Académie
+royale
+de
+Belgique
+comme
+correspondant de la Classe des Sciences. En
+1906, l'Académie des Sciences de Paris lui
+décerne le Prix Wilde « pour ses travaux de mécanique appliquée et particulièrement ses recherches sur l'intégration graphique». Ce prix, d'un
+montant de 4 000 francs, était partagé avec le
+géologue Termier pour ses recherches sur la
+
+structure géologique des Alpes orientales. Enfin,
+Massau s'est vu décerner la Croix de chevalier de
+l'Ordre de Leopold en 1893 et celle d'officier en
+1905.
+De nombreux témoignages décrivent Massau
+comme un homme simple, jovial, large d'esprit,
+apprécié de ses étudiants et de ses collègues.
+Incontestablement, le professorat et la recherche
+scientifique furent pour lui une véritable vocation. Il donna sa dernière leçon le 1er février
+1909, puis, alors qu'il semblait jouir d'une santé
+à toute épreuve, il fut emporté par une pneumonie foudroyante le 10 février suivant, à peine âgé
+de cinquante-six ans. La tombe de Massau se
+trouve au cimetière communal de Gand, dit
+cimetière de la porte de Bruges. Une plaque
+commémorative a été apposée sur sa maison
+natale, rue Junius Massau à Gosselies. Enfin, un
+buste, œuvre du sculpteur Van Biesbroeck, fut
+érigé en 1910 dans la rotonde de l'Université de
+Gand.
+J. Rose, Junius Massau (1852-1909). Courte notice
+sur sa vie et ses travaux en mécanique et en géométrie
+vectorielle, dans L'Enseignement mathématique, t. 12,
+1910, p. 187-200. — A. Demoulin, Junius Massau
+(1852-1909). Notice biographique et bibliographique,
+Gand, 1914. — J. Dela Ruye et M. Lasalle,
+Centenaire Junius Massau, dans Annales de
+l'Association des ingénieurs sortis des écoles spéciales de Gand, t. 2, 1953. — F. Bouny, Quelques
+remarques historiques et critiques au sujet de la
+théorie des vecteurs de Massau, dans Colloque Junius
+Massau tenu à Mons et Gand les 26 et 27 avril 1952,
+Bruxelles, 1954, p. 52-73. — F. Bureau, Notice sur
+Junius Massau, dans Annuaire de l'Académie royale
+de Belgique, vol. 133, Bruxelles, 1967, p. 3-44,
+portrait et bibliographie. — F. Bureau, Junius
+Massau, dans Florilège des sciences en Belgique
+pendant le XIXe siècle et le début du XXe, Bruxelles,
+1968, p. 133-154. — D. Tournés, Junius Massau et
+l'intégration graphique, dans Revue d'histoire des
+mathématiques, t. 9, 2003, p. 181-252.
+Dominique Tournés
+Illustration : Planche IX, face à la page 224
+
+— Junius Massau.

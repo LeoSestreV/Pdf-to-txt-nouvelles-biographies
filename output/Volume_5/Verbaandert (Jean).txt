@@ -1,0 +1,128 @@
+VERBAANDERT, Jean, François, Joseph,
+astronome, né à Ixelles (Bruxelles) le 26
+décembre 1901, décédé à Uccle (Bruxelles) le 4
+septembre 1974.
+
+Docteur en sciences physiques et mathématiques de l'Université de Bruxelles en 1924, il
+entre à l'Observatoire en 1926. Il y devient successivement astronome adjoint en 1938 et astronome en 1945. Son nom apparaîtra régulièrement dans les Bulletins de l'Observatoire à
+partir de 1929, lorsque fut publié le catalogue
+des 419 étoiles de comparaison de la planète
+Eros à la construction duquel il avait apporté une
+collaboration active. Ayant pénétré le domaine
+classique de l'astronomie fondamentale, Jean
+Verbaandert devait lui apporter, sa vie durant, un
+talent d'expérimentateur averti, habile et rigoureux.
+Il participe à l'opération des longitudes en
+1933 et écrit par la suite de multiples notes sur
+tous les aspects instrumentaux si critiques de
+l'astronomie fondamentale : corrections d'inclinaison, étude précise des tourillons, erreurs de
+division des cercles gradués, contrôle des horloges et des signaux horaires, équations personnelles.
+Jean Verbaandert a consacré toute sa carrière
+d'astronome à l'étude de la terre et ce n'est pas
+son moindre mérite que d'avoir compris, trente
+ans à l'avance, qu'il était essentiel de maintenir
+vivante l'astronomie fondamentale alors que
+tant de talents préféraient se tourner vers l'astrophysique.
+Jean Verbaandert a sauvé l'astronomie fondamentale en Belgique le jour où il partit en
+Angleterre dès 1947 pour étudier les nouvelles
+techniques issues de la guerre navale qui permettaient un gain de deux décimales dans la
+conservation de l'heure. Il assuma toutes les
+charges, depuis les plus humbles jusqu'aux plus
+délicates, de la mise en place d'un service de
+l'heure moderne équipé des premières horloges
+à quartz et du premier chronographe électronique : en quelques mois l'Observatoire royal de
+Belgique avait repris une place de premier rang
+dans les Services de l'Heure affiliés au Bureau
+international de l'Heure.
+Il avait installé notre première horloge à
+quartz en 1951 et très peu de temps après
+publiait dans la Revue de la Société chronométrique de France une étude critique qui fut très
+appréciée. C'est en 1951 aussi qu'il simplifie la
+partie mécanique des chronographes imprimants
+traditionnels de Prin et de Secrétan par l'insertion d'un moteur phonique. L'étude approfondie
+de ces appareils sera publiée dans le Bollettino
+di Geodesia e Scienze Affini et à la Société chronométrique de France.
+Il publie aussi dans Ciel et Terre deux articles
+très remarqués sur les horloges à raies spectrales.
+Lorsque le programme de l'Année Géophysique internationale met à l'ordre du jour l'étude
+de tous les phénomènes variables dans le temps
+il s'intéresse immédiatement aux variations du
+vecteur pesanteur direction de référence locale
+pour l'astronomie. Une telle étude doit évidemment porter sur les trois composantes du vecteur,
+tout comme en séismologie ou en magnétisme
+terrestre. Or s'il existait alors plusieurs versions
+de gravimètres mesurant la composante verticale, il n'y avait aucun instrument suffisamment
+précis pour mesurer les fluctuations des composantes horizontales. Après plusieurs mois de
+patientes recherches et de nombreux tests en
+laboratoire un nouveau pendule horizontal en
+quartz était réalisé à l'Observatoire royal de
+Belgique. Le premier appareil est installé en
+septembre 1959 dans la galerie d'accès de l'ancienne mine de fer de Sclaigneaux, à une profondeur de quatre-vingts mètres ce qui était
+extrêmement favorable au point de vue thermique. Le comportement de l'instrument dépasse toute espérance et l'on enregistre, dès la première
+semaine
+de fonctionnement,
+une
+exceptionnelle courbe de marée, concomitante à
+une éclipse de Lune.
+Aisément transportable cet instrument supportera les conditions d'environnement les plus
+rudes, ainsi qu'en témoigneront dans la suite les
+mesures réalisées à la très grande profondeur de
+1.500 mètres en Tchécoslovaquie, dans une
+température ambiante de 41° C et une humidité
+de 98% aussi bien que celles réalisées à très
+basse température au Spitsberg de 1968 à 1971.
+Cependant le problème crucial pour les appareils géophysiques ou astronomiques est celui
+des erreurs systématiques, particulièrement liées
+à l'étalonnage.
+Jean Verbaandert a mis au point un procédé
+simple et direct basé sur cette idée fondamentale que pour étalonner correctement un appareil il
+faut le soumettre artificiellement au phénomène
+physique que l'on veut mesurer. Il décrit son
+système dans le Bolletino di Geofìsica Teorica
+ed applicata en 1962 dans les termes suivants :
+«on utilise, pour faire l'étalonnage d'un pendule horizontal, une crapaudine ayant la forme
+
+d'une capsule manométrique à parois épaisses
+placée sous la vis de dérive de l'instrument. On
+injecte dans la chambre de la crapaudine un fluide sous pression connue; sous l'effet d'une
+déformation élastique résultant de l'accroissement interne de la pression, la paroi supérieure
+de la crapaudine se bombe en soulevant l'extrémité de la vis de dérive d'une quantité connue
+avec précision, et le pendule s'incline comme
+sous l'effet d'une marée terrestre artificielle, en
+subissant un micro déplacement angulaire facile
+à calculer». Jean Verbaandert a construit l'interféromètre devant assurer l'étalonnage des crapaudines dilatables; tandis que l'étalonnage des
+pendules à partir d'une crapaudine ainsi étalonnée a été rendu entièrement automatique.
+Dès lors ceux qui se sont appliqués à étudier
+les déformations périodiques de la Terre s'appuient sur les conceptions de Jean Verbaandert
+et l'on rencontre son nom dans de très nombreux
+travaux japonais, russes, américains et bien
+entendu européens.
+Jean Verbaandert avait été, à la Faculté
+Polytechnique de Mons, un remarquable professeur de topographie (1932-1947) et d'astronomie (1946-1947). L'Académie royale de
+Belgique lui a décerné le Prix Lagrange en 1960.
+Ses réalisations instrumentales lui avaient valu
+aussi le titre de Lauréat du Travail de Belgique
+en 1962.
+Il était membre des Commissions de l'Heure
+et de l'Astronomie méridienne à l'Union astronomique internationale et membre du Comité
+national belge d'Astronomie. Il fut président du
+Comité national belge de Géodésie et de
+Géophysique. Il a rempli cette fonction avec
+tact, avec courtoisie et avec compétence.
+Jean Verbaandert n'a jamais voulu perdre le
+contact. Au cours de ses années de retraite il
+venait presque chaque semaine faire une visite
+amicale à l'Observatoire, s'intéressait aux résultats nouveaux, aux projets de chacun et plus particulièrement ceux des plus jeunes assistants qui
+trouvaient près de lui conseils et encouragements.
+Jean Verbaandert a porté loin dans le monde le
+renom de l'Observatoire royal de Belgique.
+Mais à côté de ses mérites scientifiques il était
+une personnalité attachante. Jean Verbaandert
+avait le cœur généreux et une vie droite, tout
+entière consacrée à sa famille et à «son»
+Observatoire.
+P. Melchior, In memoriam : Jean Verbaandert, dans
+Ciel et Terre, t. 92, 1976, p. 1-6. — Jean Verbaandert,
+dans La Libre Belgique, 6 septembre 1974.
+
+— Paul Melchior

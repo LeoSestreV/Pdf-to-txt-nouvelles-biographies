@@ -1,0 +1,179 @@
+BIOT, Maurice, Anthony, ingénieur, physicien,
+mathématicien, né à Anvers le 25 mai 1905,
+décédé à Woluwe-Saint-Lambert (Bruxelles) le
+12 septembre 1985.
+Fils unique, le jeune Maurice Biot suit ses
+parents en France pendant la guerre 1914-1918
+et c'est là qu'il reçoit sa première instruction,
+qu'il complète lors de son retour à Anvers. En
+1924, Maurice Biot entreprend des études supérieures à l'Université catholique de Louvain où
+il acquiert successivement les diplômes d'ingénieur des mines (1929), d'ingénieur électricien
+(1930), de bachelier en philosophie thomiste,
+tout en suivant le cycle complet d'études en
+sciences économiques, puis enfin de docteur en
+sciences (1931) en soutenant une thèse sur
+l'Etude théorique des courants induits devant
+Charles Manneback et Georges Lemaître.
+La Belgian American Educational Foundation
+permet à Maurice Biot de passer deux ans aux
+Etats-Unis
+(1932-1933), à Pasadena au
+California Institute of Technology où il rencontre Théodore von Kármán avec lequel il
+publiera quelques années plus tard l'ouvrage
+renommé Mathematical Methods in Engineering,
+qui a connu neuf traductions. En 1932, Maurice
+Biot acquiert un Ph.D. en sciences aéronautiques et après quelques mois passés à la
+Michigan University, il rentre en Europe lorsque
+le Fonds national de la Recherche scientifique
+lui donne l'occasion de voyager à Delft, à
+Göttingen et à Zurich. En 1934-1935, il est
+chargé du cours de mathématiques appliquées à
+la Harvard University. De juin 1935 à janvier
+1936, il retourne à Pasadena comme advanced
+fellow de la Belgian American Educational
+Foundation. En 1936-1937, Maurice Biot est
+nommé à l'Université catholique de Louvain où
+il enseigne l'élasticité et la mécanique rationnelle. De 1937 à 1946, il enseigne la mécanique
+théorique et la physique mathématique à la
+Columbia University et, de 1946 à 1952, les
+sciences physiques appliquées à la Brown
+University.
+En 1941, Maurice Biot obtient la naturalisation
+américaine et, interpellé par la guerre en Europe,
+il obtient un congé à la Columbia University pour
+enseigner à l'Aeronautical Laboratory, California
+Institute of Technology, sur des problèmes de
+vibrations et de battements, de stabilité dynamique des projectiles et de l'impact des bombes
+anti-sous-marines. Engagé à la U.S. Navy, il dirige en 1942 la section Structural Dynamics à
+Washington puis, en qualité de Lt Commander, il
+participe à des missions techniques en Europe
+avec les troupes de combat. Sa parfaite connaissance de la langue allemande lui permet d'être le
+premier Américain à pénétrer dans certaines
+usines aéronautiques du Reich. A partir de 1951,
+Maurice Biot produit de nombreux travaux scientifiques pour le compte de la Shell Development
+Company, de la Cornell University et de l'Air
+Force of Scientific Research. De 1962 à 1982, il
+devient conseiller scientifique de la Mobil
+Research and Development Corporation à Dallas,
+dans le domaine de la mécanique des roches.
+Installé à Bruxelles depuis 1970, Maurice Biot
+poursuit ses recherches, non sans des passages
+fréquents à Dallas. C'est au cours de son dernier
+séjour aux USA qu'il ressent les premières
+atteintes du mal qui l'emporte subitement le 12
+septembre 1985.
+Il est difficile d'analyser l'œuvre scientifique
+de Maurice Biot représentée par trois ouvrages
+et 178 publications, tant les sujets abordés sont
+variés.
+Dans les années trente, un travail de pionnier
+consacré à la réponse des structures aux ébranlements subits fut un outil majeur dans les calculs de stabilité en régions sismiques. Pendant
+cette même période, Biot publie ses premières
+études sur l'élasticité non linéaire prenant en
+compte les effets d'une contrainte initiale.
+Après 1940, ce sont des problèmes aéronautiques et de mécanique des fluides qui retiennent
+son attention; il développe une théorie en trois
+dimensions des oscillations des ailes d'avion
+basée sur une méthode matricielle et sur l'emploi de coordonnées généralisées, laquelle permet d'éviter les battements dans les structures
+d'avions; il fait breveter un modèle analogique
+où les forces aérodynamiques sont simulées par
+des courants électriques. Il poursuit ces études
+après la guerre en donnant une première évaluation de la traînée induite par un corps en accélération transsonique.
+Dans les années cinquante, Maurice Biot
+développe la thermodynamique des processus
+irréversibles en introduisant une forme généralisée de l'énergie libre. De plus, il présente une
+nouvelle approche des transferts de chaleur qui
+fera l'objet en 1970 d'une monographie dans
+laquelle on trouve des applications à plusieurs
+problèmes tels celui des aquifères ou celui de la
+
+diffusion des neutrons dans un réacteur nucléaire et à d'autres domaines encore.
+Son intérêt pour la mécanique des milieux
+poreux date de 1940 avec une note fondamentale souvent citée sur la consolidation des argiles.
+En 1950, il revient sur le sujet dans un contexte
+plus général de la mécanique des roches en rapport avec l'industrie pétrolière. Depuis, plusieurs coefficients et modules propres aux
+milieux thermoporeux portent son nom. Entretemps, il prouve l'existence dans un milieu
+poreux de trois types d'onde. Pendant une courte période de 1950, Maurice Biot s'intéresse aux
+problèmes de radioguidage des fusées et de la
+question des perturbations des ondes lors de leur
+réflexion au sol. En collaboration avec I.
+Tolstoy, il étudie la propagation des ondes dans
+un milieu infini au moyen d'un spectre continu
+de coordonnées normales. Dans une série de
+publications datées de 1957, Biot développe une
+théorie sur l'instabilité des solides visqueux et
+visqueux élastiques provoquant leur plissement.
+Il vérifie ces résultats par des expériences sur
+modèles et les applique aux structures géologiques. Dans sa monographie datée de 1965,
+Mechanics
+of incremental
+deformations,
+il
+donne la théorie générale et systématique d'un
+milieu continu à trois dimensions, initialement
+sous tension ; il y a de nombreuses applications
+lorsque la déformation est finie ou lorsqu'il
+s'agit de la stabilité de milieux fortement anisotropes. Le cas des milieux viscoélastiques est
+traité en détail.
+En 1970, Maurice Biot formule un principe
+variationnel lui permettant de faire la synthèse
+entre la mécanique classique et la thermodynamique des processus irréversibles. Il applique
+ces nouvelles théories aux équations de champs
+dans les systèmes où les déformations sont couplées à la diffusion thermonucléaire et aux réactions chimiques.
+Le nombre de citations des travaux de
+Maurice Biot, autant que les distinctions scientifiques dont il fut l'objet attestent l'admiration
+que lui vouent ses pairs : prix sexennal Auguste
+Sacré de l'Académie royale de Belgique en
+1934, Fellow de l'American
+Institute of
+Aeronautics en 1948, membre titulaire de
+l'American Academy of Art and Sciences en
+1962, médaille Timoshenko de l'American
+Society of Mathematical Engineers en 1962 (la
+plus haute distinction de cette société), Fellow
+de
+l'American
+Society
+of
+Mathematical
+Engineering en 1966, membre associé de
+l'Académie royale de Belgique en 1966,
+membre
+de
+l'US
+National
+Academy
+of
+Engineering en 1967, Fellow de l'American
+Geophysical Union en 1967, médaille Théodore
+von Kármán de l'American Society of Civil
+Engineers en 1966, docteur honoris causa de
+l'Université de Liège qui lui remet sa médaille
+en 1971, prix André Dumont de l'Union royale
+des Ingénieurs de l'Université de Louvain en
+1974, Honorary Fellow de Γ Acoustical Society
+of America en 1983.
+Maurice Biot était humaniste et donnait à ce
+terme toute sa noblesse. Une culture étendue,
+une grande maîtrise dans l'utilisation des mathématiques qu'il mettait au service des réalités
+physiques font grand honneur à l'ingénieur et à
+l'homme de sciences qu'est Maurice Biot.
+R. D. Midlin, Presentation of Timoshenko Medal to
+Maurice Biot, 27-XI-1962. — R. Spronck, Présentation de M. Biot au titre de Docteur Honoris Causa
+de l'Université de Liège, 6-XI-1967.
+Modern Scientists and Engineers, Mc Graw Hill, New
+York, 1980. — C. S. Clay, Discours prononcé au 106e
+Meeting de l'Acoustical Society of America, San
+Diego, 7-11-XI-1983, à l'occasion de la remise du
+titre de Honorary Fellow à Maurice Biot. — A.
+Delmer et A. Jaumotte, Notice sur Maurice Anthony
+Biot, dans Annuaire de l'Académie royale de
+Belgique, vol. 156, 1990, p. 89-132, portrait photographique, liste bibliographique complète et sept brevets.
+André Delmer et André L. Jaumotte
+Planche I
+André Charue avec le cardinal Montini (futur pape Paul VI),
+Cathédrale de Milan, octobre 1960.
+
+Cette page blanche remplace une illustration
+
+— Cette page blanche remplace une illustration

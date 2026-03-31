@@ -1,0 +1,363 @@
+BUREAU, Florent, Joseph, mathématicien,
+professeur à l'Université de Liège, membre de
+l'Académie royale de Belgique, né à Jemeppe-sur-Sambre le 17 décemb
+Uccle (Bruxelles) le 28 juin 1999.
+Fils d'Isidore-Joseph Bureau, employé aux
+chemins de fer, et de Marie-Thérèse Charue, il
+connaît une enfance heureuse, assombrie par la
+Grande Guerre, dont il gardera toujours un vif
+souvenir.
+Après des études moyennes à l'Ecole de l'Etat
+à Fleurus, Florent Bureau poursuit ses humanités à l'Athénée royal de Namur. Déjà attiré par
+les mathématiques, il complète ses connaissances scolaires par des lectures personnelles. Il
+s'oriente vers des études d'ingénieur civil à
+l'Université de Liège, termine les candidatures
+en 1927 avec grande distinction, et choisit la
+section d'ingénieur métallurgiste. Mais c'est le
+titre de docteur en sciences physiques et mathématiques qu'il décroche en 1929, avec la plus
+grande distinction. L'année de son diplôme est
+aussi celle de son premier article, dans lequel il
+intègre, avec Pol Swings, les équations des
+orbites quasi-képlériennes. C'est le point de
+départ d'une production scientifique qui s'étend
+sur soixante-huit ans !
+Lauréat du Concours des bourses de voyage
+en 1929, le jeune mathématicien passe l'année
+académique 1929-1930 à Paris, où il suit les
+
+leçons d'Emile Picard, Paul Montel, Gaston
+Julia, Henri Villat et le célèbre séminaire de
+Jacques Hadamard. Il a trouvé ses héros et ses
+modèles, qu'il évoquera souvent avec une admiration teintée de nostalgie. Son succès au
+Concours universitaire, pour la période 1930-
+1932, lui permet de séjourner à Berlin, à
+Copenhague, et à Rome. Il y suit les leçons de
+géométrie algébrique de Federigo Enriques et
+Francesco Severi. Il est reçu par Vito Volterra,
+déjà privé de sa chaire pour refus de serment au
+régime fasciste, qui lui expose ses recherches
+sur les équations aux dérivées partielles.
+C'est à Paris sans doute que Florent Bureau
+s'initie aux célèbres théorèmes de Picard. Les
+seuls polynômes d'une variable complexe qui ne
+s'annulent jamais sont constants. Mais leur
+généralisation immédiate, les fonctions entières,
+des polynômes de degré infini en quelque sorte,
+peuvent ne jamais s'annuler. Le premier théorème de Picard affirme qu'une fonction entière
+qui ne s'annule pas et évite une autre valeur,
+disons un, est nécessairement constante. Son
+séjour à Berlin inspire à Bureau un nouveau
+théorème de ce type : une fonction entière qui ne
+s'annule pas, et dont la dérivée n'est jamais
+égale à un, est constante. La démonstration de ce
+résultat, dont Montel soupçonnait la véracité,
+impressionne le savant français, et inspire aussitôt les travaux de mathématiciens de la trempe
+de Carlo Miranda, Georges Valiron et Henri
+Milloux. Revenant à ses premières amours,
+notre confrère montre la fécondité de son approche en généralisant des théorèmes d'Edmund
+Landau et Friedrich Schottky dans un ultime
+mémoire, paru en 1997.
+Florent Bureau rédige ensuite une étude des
+intégrales d'une équation différentielle non
+linéaire du premier ordre au voisinage d'une
+singularité transcendante. Avec ce travail,
+complété par six thèses annexes consacrées aux
+fonctions complexes, aux séries lacunaires, aux
+équations différentielles linéaires et aux équations intégrales, il est proclamé agrégé de l'enseignement supérieur de l'Université de Liège
+en 1933. Nommé répétiteur du cours d'analyse
+mathématique, avec suppléance des compléments de mathématiques de la licence en
+physique, dès 1932, il est titularisé en 1934,
+comme chargé des cours d'algèbre et de théorie
+des déterminants, et, dès 1936, de mécanique
+analytique.
+La double influence du Séminaire Hadamard,
+qu'il fréquente encore en 1933 et 1934, et de son
+enseignement aux futurs licenciés en physique,
+conduit le mathématicien liégeois à se tourner
+vers l'étude des équations aux dérivées partielles de la physique mathématique. Son Essai sur
+l'intégration des équations linéaires aux dérivées partielles, jugé très favorablement par
+Théophile De Donder, lui vaut de partager avec
+Jacques van Mieghem le Concours annuel de
+l'Académie royale de Belgique en 1935. C'est le
+premier d'une longue série de travaux consacrés
+à la méthode des singularités pour étudier les
+équations aux dérivées partielles totalement
+elliptiques, qui régissent les phénomènes
+d'équilibre ou stationnaires, ou totalement
+hyperboliques, qui décrivent les vibrations et la
+propagation d'ondes. Intuitivement, une solution élémentaire est la réponse du système à une
+excitation infiniment grande, ponctuelle, et
+instantanée. Elle fournit la solution de différents
+problèmes par un processus d'intégration, développé par Gaston Darboux, Vito Volterra et
+Jacques Hadamard, et fondé sur une formule
+fondamentale, qui étend celles de Green et de
+Riemann pour le Laplacien et le Dalembertien.
+Dans le cas totalement elliptique, Florent
+Bureau généralise plusieurs résultats classiques
+d'Ivar Fredholm, Nils Zeilon, Gustav Herglotz
+et Jacques Hadamard. Invité par De Donder à
+présenter ses travaux à l'Université de Bruxelles
+et à l'Institut des Hautes Etudes de Belgique en
+1936 et 1937, Bureau se penche sur l'application
+de la méthode des singularités à la résolution du
+problème de conditions initiales (dit de Cauchy)
+pour des équations totalement hyperboliques. Le
+cas du second ordre avait amené Robert
+d'Adhémar et Jacques Hadamard à introduire
+des intégrales divergentes rendues finies par
+soustraction d'une partie de la fonction intégrée.
+Ces parties finies d'intégrales donnent la solution du problème de Cauchy pour un espacetemps de dimension impaire, le cas pair s'y
+ramenant par l'adjonction artificielle d'une
+dimension. Bureau évite cet artifice, en 1938, à
+l'aide des parties logarithmiques d'intégrales,
+déjà inventées, dans le même but, par Jacques
+Hadamard en 1924 et Kurt Friedrichs entre 1928
+et 1932.
+La Deuxième Guerre mondiale interrompt
+tragiquement ces recherches. Dispensé du
+service militaire, Florent Bureau rejoint en
+
+France son collègue Max Morand, et regagne la
+Belgique après la capitulation. A l'Université de
+Liège, où il avait été promu professeur ordinaire
+en 1938, il supplée des collègues prisonniers : sa
+charge d'enseignement s'accroît, entre 1941 et
+1945, des cours de physique mathématique,
+d'algèbre et d'une partie des compléments
+d'analyse supérieure. Pendant les années de
+tourmente, il fonde, avec le recteur Graulich et
+André Buttgenbach, le Service social universitaire, et assure, au prix des difficultés qu'on
+imagine, l'approvisionnement du restaurant de
+la Maison des étudiants.
+La fin de la guerre ramène Florent Bureau à
+des nourritures plus spirituelles et à son
+programme d'extension de la méthode des
+singularités aux équations d'ordre élevé. Une
+série de notes au Bulletin de l'Académie royale
+de Belgique et aux Comptes rendus de
+l'Académie des Sciences de Paris, en 1947 et
+1948, traitent les équations de propagation des
+ondes lumineuses dans les milieux cristallins
+homogènes et uniaxes, avant d'étendre les résultats à une classe plus vaste d'équations d'ordre
+élevé à un nombre quelconque de variables
+indépendantes. On y traite pour la première fois,
+comme l'observe Hadamard, une équation dont
+la forme caractéristique ne se décompose pas en
+facteurs du deuxième degré. Bureau approfondit
+les liens entre la construction des solutions
+élémentaires et la géométrie algébrique, et généralise la formule de Parseval aux parties finies et
+logarithmiques d'intégrales pour résoudre le
+problème de Cauchy par la méthode des singularités et les transformées de Fourier.
+Tous ces travaux sont suivis attentivement par
+des mathématiciens comme Jean Leray, Laurent
+Schwartz, Jacques-Louis Lions, Kurt Friedrichs,
+Richard Courant et Fritz John. En 1950, Bureau
+est invité au Collège de France, à l' Institute of
+Advanced Studies de Princeton, aux universités
+de Maryland et de New York. Il visite, en 1951,
+les universités de Pise, Rome et Naples. Déjà
+lauréat du Prix des amis de l'Université de Liège
+en 1934, et du Prix Agathon De Potter en 1936,
+il reçoit en 1952, des mains du jeune roi
+Baudouin, le Prix Francqui, pour « l'originalité
+de son esprit créateur, le succès de ses recherches sur les équations aux dérivées partielles,
+l'étendue de sa culture». Il s'attaque alors au
+problème mixte pour les équations totalement
+hyperboliques, qui modélise la propagation
+d'ondes dans des enceintes limitées, et relie, en
+1953, la méthode des singularités et celle des
+développements en séries de fonctions orthogonales, en suscitant à nouveau des commentaires
+flatteurs d'Hadamard.
+Le mathématicien belge porte aussitôt la
+bonne nouvelle aux Etats-Unis, à l'université de
+Chicago en 1953-1954, et à l'université Duke
+en 1955-1956. Il y applique la méthode des
+singularités à des systèmes hyperboliques et
+aux équations de Tricomi, et rédige des exposés
+de synthèse, publiés dans de prestigieuses
+revues américaines ou italiennes. Il les présente
+en 1954 dans une conférence invitée au
+Congrès international des mathématiciens
+d'Amsterdam, où il fait aussi partie du prestigieux comité d'attribution des Médailles Fields,
+la plus haute distinction récompensant un
+mathématicien de moins de quarante ans. Au
+début des années soixante, les solutions
+élémentaires permettent encore à Bureau d'obtenir des informations nouvelles sur le comportement asymptotique des valeurs propres
+d'opérateurs elliptiques auto-adjoints. Entretemps, les problèmes hyperboliques et les
+parties finies d'intégrales divergentes avaient
+contribué de manière essentielle à la création,
+par Sergei Sobolev et Laurent Schwartz, d'un
+cadre plus large pour l'étude des équations aux
+dérivées partielles linéaires, la théorie des
+distributions. Peu favorable aux techniques
+d'analyse fonctionnelle sur lesquelles elle se
+fondait - il leur préféra toujours les méthodes
+constructives - le mathématicien belge concentre son énergie, dès 1962, sur un autre domaine
+déjà brièvement abordé en 1939, la théorie des
+équations différentielles ordinaires analytiques
+à points critiques fixes.
+Les solutions des équations différentielles
+linéaires dans le champ complexe ont la régularité des coefficients de l'équation qui leur a
+donné naissance. Les solutions des équations
+différentielles non linéaires peuvent développer
+des singularités n'importe où, variant d'une
+solution à l'autre : on les dit mobiles. Les équations non linéaires les plus simples, dont les
+singularités sont fixes comme dans le cas
+linéaire, méritent donc d'être étudiées les
+premières. Les équations du premier ordre à
+second membre rationnel en l'inconnue et à
+points critiques fixes avaient été considérées par
+Lazarus Fuchs et Henri Poincaré. Le cas du
+
+second ordre semblait inaccessible lorsque, à la
+fin du XIXe siècle, Paul Painlevé étonne le
+monde mathématique en ramenant cette famille
+à cinquante cas différents, dont six seulement
+(dites «équations de Painlevé») ne pouvaient
+être résolues par les fonctions connues, définissant ainsi des fonctions nouvelles, les transcendantes de Painlevé.
+Les calculs de la méthode de Painlevé
+deviennent vite inextricables et Bureau en
+donne une version plus conviviale dans sa note
+de 1939. Il la développe dans ses leçons à l'université Delaware de 1963, et l'applique à des
+équations du troisième et du quatrième ordre.
+A l'époque du bourbakisme triomphant et de
+l'abstraction souveraine, ces travaux sont considérés par d'aucuns comme obsolètes. Pourtant,
+au même moment et aux Etats-Unis, Martin
+Kruskal et Norman Zabusky, en étudiant numériquement une équation aux dérivées partielles
+non linéaire décrivant le mouvement d'ondes
+dans des liquides, découvrent des comportements surprenants qui mobilisent aussitôt l'attention de nombreux mathématiciens et
+physiciens. La théorie des solitons, est née, qui
+sera l'un des paradigmes scientifiques de la
+deuxième moitié du XXe siècle. Leur recherche
+conduit à des équations de Painlevé, qui se
+retrouvent à Γ avant-scène du paysage mathématique. Ces découvertes comblent Bureau de joie
+et décuplent son énergie. Entre 1980 et 1983, il
+publie, dans le Bulletin de l'Académie royale de
+Belgique, une vingtaine de notes sur les systèmes polynomiaux à points critiques fixes, les
+fonctions définies par les équations de Painlevé
+et les équations du troisième ordre. Il expose ses
+résultats à des réunions scientifiques en Allemagne et au Canada, et maudit les ennuis de santé
+qui l'empêchent de participer en juin 1996,
+l'année de ses nonante ans, à une Ecole d'été à
+Cargèse, placée sous son patronage et celui de
+Kruskal, célébrant le centenaire des « Leçons de
+Stockholm » de Painlevé. Cela n'empêche pas
+ses travaux d'être régulièrement cités dans des
+articles récents de physique théorique, où l'on
+parle déjà d'un «indice de Bureau». Lorsque
+ses forces l'abandonnent à la fin de l'année
+1996, Bureau travaillait à une vaste synthèse de
+ses recherches sur les équations du troisième
+ordre.
+On pourrait penser qu'une telle œuvre est
+celle d'un savant y consacrant tout son temps.
+C'est loin d'être le cas pour Florent Bureau,
+dont les charges d'enseignement, on l'a vu plus
+haut, ont été lourdes et variées. Ce n'est qu'en
+1956 qu'on lui attribue la chaire d'analyse supérieure, le déchargeant des cours de premier
+cycle. Loin de se complaire dans un enseignement routinier, il complète chaque année la
+matière de base par des sujets nouveaux.
+Curieusement, l'insatiable passion de Bureau
+pour les mathématiques transparaît peu dans ses
+cours, si l'on excepte quelques moments de
+grâce. Rares sont les étudiants, même parmi les
+futurs licenciés en mathématique et en physique,
+qui la devinent, et la grande majorité le craignent plus qu'ils ne l'admirent. Cette réserve
+traduit en partie l'extrême souci du mathématicien pour l'expression de sa pensée. Jamais il ne
+donne une conférence sans la rédiger entièrement d'avance.
+L'homme lui-même est hors du commun. Ses
+opinions tranchées, exprimées sans détour, se
+fondent sur une documentation solide et des
+lectures nombreuses et variées. Conscient de sa
+valeur, il abhorre les opportunistes, les charlatans et les flatteurs. Observateur attentif et
+critique du monde et de la société, il utilise sa
+mémoire prodigieuse pour jauger le présent à la
+lumière du passé. Individualiste né, il méprise
+les modes, et pourfend la vogue des mathématiques dites modernes, qu'il raille volontiers en
+évoquant les « surjections, injections, bijections,
+et autres abjections ». Ceux qui le connaissent
+mieux savent qu'il aime rire et apprécie la plaisanterie, fut-elle à ses dépens. Très attaché à sa
+famille, Bureau parle souvent de ses parents, de
+sa mère en particulier, avec dévotion et reconnaissance, émaillant ses souvenirs de détails qui
+sentent bon le terroir. Il a suivi l'éducation de
+ses deux filles Anne et Nicole avec beaucoup
+d'attention, et rapporte avec fierté les succès de
+ses deux petites-filles. Si ses relations avec son
+Université et l'Institut de mathématiques ont été
+à l'image du climat belge, avec de nombreuses
+périodes orageuses, il a gardé pour la ville de
+Liège, qui lui décerne sa médaille en 1953, une
+réelle affection, ne se lassant jamais de contempler par sa fenêtre, entre deux piles de livres et
+de manuscrits, l'humeur changeante de la
+Meuse.
+Si nul n'est prophète en sa Principauté, les
+premiers succès mathématiques de Florent
+Bureau, et leur réception en France et en Italie,
+
+attirent très tôt l'attention de ses illustres aînés
+Charles-Jean de La Vallée Poussin et Théophile
+De Donder. Il est élu correspondant de la Classe
+des Sciences de l'Académie royale de Belgique
+le 15 décembre 1939, à deux jours de son trentetroisième anniversaire. Titularisé le 15 décembre 1944, il dirige sa Classe en 1953. Les
+lectures et discours de la séance publique lui
+donnent l'occasion d'analyser avec brio deux
+ouvrages scientifiques fondamentaux, leurs
+auteurs et leur contexte : la Théorie de la
+lumière de Huygens et la Théorie analytique de
+la chaleur de Fourier. On regrettera qu'il se soit
+montré si avare d'éloges ou de notices pour sa
+Compagnie, tant son seul travail du genre,
+consacré à Junius Massau, est un modèle de
+précision et de pertinence. Florent Bureau a été
+pendant dix-huit ans le plus ancien membre de
+l'Académie royale de Belgique. La Classe des
+Sciences a célébré son cinquantenaire académique à sa séance publique du 16 décembre
+1989, où le jubilaire reçut du ministre Féaux
+les insignes de Grand-Croix de l'ordre de
+Léopold II. Le destin s'est montré bien mesquin
+en lui refusant les quelques mois qui le séparaient des noces de diamant avec sa Compagnie.
+Son assiduité à l'Académie était légendaire. Il
+fallait retourner l' Annuaire en tous sens pour
+trouver une commission où il n'avait pas siégé,
+et le règlement de la vénérable institution
+n'était pas pour lui une suite d'articles abstraits,
+mais un album précis de souvenirs et d'anecdotes. L'éloignement forcé de nos séances, pour
+raison de santé, dès novembre 1996, a été, pour
+cet académicien modèle, un véritable déchirement.
+Florent Bureau a participé activement à d'autres aspects de la vie scientifique du pays. Il fut
+secrétaire du Centre belge de Recherches mathématiques (CBRM), membre du conseil d'administration du Centre universitaire de l'Etat à
+Mons, et a présidé, pendant de nombreuses
+années, la première commission du Fonds national de la Recherche scientifique et le comité
+national de Mathématiques. Parmi ses élèves et
+ses anciens collaborateurs, beaucoup ont occupé
+ou occupent encore des postes académiques
+importants à l'Université de Liège ou ailleurs.
+Sa présence à l'étranger fut également marquée
+par une participation régulière aux congrès
+internationaux des mathématiciens, à ceux de
+l'union mathématique italienne, aux réunions
+des mathématiciens d'expression latine et aux
+colloques d'Oberwolfach.
+Florent Bureau s'est éteint doucement, dans
+sa nonante-troisième année, après une brève
+hospitalisation. Il a marqué de sa personnalité et
+de son autorité plus de soixante ans de la vie
+mathématique et académique belge. Son œuvre
+scientifique, poursuivie jusqu'aux portes du
+XXIe siècle, suscitera encore, partout dans le
+monde, de belles et fécondes recherches.
+Liber Memorialis. L'Université de Liège de 1867 à
+1935. Notices biographiques, t. II, Gembloux, 1936,
+p. 400-401. — L. Godeaux, Le Prix Francqui 1952
+à M. Florent Bureau, Membre de l'Académie Royale
+de Belgique, Professeur à l'Université de Liège, dans
+Bulletin de l'Association des Amis de l'Université de
+Liège, 1952, n° 3, p. 51-53. — J. Mawhin, Eloge de
+Florent Bureau, dans Bulletin de la Classe des
+Sciences, Académie royale de Belgique, 6e série, t. 11,
+2000, p. 151-161. — J. Mawhin, Notice sur Florent
+Bureau, dans Annuaire de l'Académie royale de
+Belgique, vol. 168, Bruxelles, 2002, p. 3-29, portrait
+photographique et bibliographie.
+
+— Jean Mawhin

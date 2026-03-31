@@ -927,6 +927,24 @@
     }
   },
   {
+    "nom": "ALBIMOOR",
+    "prenom": "Willy",
+    "description": "pseudonyme de De Moor, Willy, Noël ; compositeur, arrangeur, pianiste, né à Wevelgem le 28 décembre 1924, décédé à Waremme le 11 décembre 2004.\t Fils de Gustaaf-Leo De Moor et de Rachel-Gabriel Donckels, « l’ami » Albimoor fut, sa vie durant, un compositeur prolixe, un instrumentiste hors pair, un arrangeur fécond. \t Willy Albimoor s’était rendu célèbre dans les années cinquante grâce à ses nombreux accompagnements, en solo ou en groupe, des plus grands interprètes. Il a accompagné, entre autres figures emblématiques, Fud Leclerc, Joséphine Baker, Bébé Suong, Johan Verminnen et Paul Louka, dont il ne fut pas seulement l’accompagnateur attitré mais l’ami comme en témoignent les différents propos du « saltimbanque contestataire ». L’ami fidèle, celui de toute une vie. « Des complices infatigables » précise-t-il encore. Il poursuit en ces termes : « La première fois que j’ai ren-contré Willy Albimoor, j’ai cru un instant que Donald Duck était vraiment vivant ! La mé-prise fut de courte durée : au troisième accord, j’avais déjà compris. C’était au Casino de Knokke, en juillet 1963, à la cinquième Coupe d’Europe du tour de chant. »\t Albimoor était membre de la Société belge des auteurs, compositeurs et éditeurs (SABAM) depuis 1948 ; celle-ci lui décerna un prix en 1977, un prix parmi de nombreux autres, pour saluer et récompenser ses multiples talents, un prix à l’instar d’un incontournable hommage, sorte de reconnaissance de toute la profession.\t Willy Albimoor débute sa carrière dans l’univers atypique et particulier du jazz. Nous sommes au cœur des années cinquante. Il fait partie du trio de Roger Vanhaverbeke et ac-compagne notamment des artistes d’envergure comme Jack Sels, Etienne Verschueren, Herman Sandy, David Bee, Sadi Lallemand, Fud Candrix…",
+    "reference": {
+      "tome": 10,
+      "page": 11
+    }
+  },
+  {
+    "nom": "ARNOULD",
+    "prenom": "Marcel",
+    "description": "peintre et sculpteur, né à Braine-le-Comte le 9 avril 1928, décédé à Lennik­-Saint-Quentin le 20 août 1974",
+    "reference": {
+      "tome": 10,
+      "page": 12
+    }
+  },
+  {
     "nom": "ADINE",
     "prenom": "France",
     "description": "pseudonyme de VAN DROMME, Cécile, Marie, Julia, Eugénie, romancière, née àEsen-lez-Dixmude le 31 août 1890, décédée àBruxelles le 19 mars 1977",
